@@ -1,6 +1,6 @@
 # Car-Park-ticket-machine
 
-creating a class called Cars for a car parking company.
+Creating a class called Cars for a car parking company.
 
 Stores the registration number and number of hours parked and returns the total amount charged.
 
